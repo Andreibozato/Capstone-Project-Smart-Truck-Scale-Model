@@ -1,4 +1,4 @@
-# Smart Truck Scale Model with Sensors: Guided Maneuverability
+# Smart Truck Scale Model with Sensors: Guided Maneuverability (Lita Avalon)
 
 This repository contains the source code, circuit diagrams, and documentation for the Capstone Project (TCC) **Lita Avalon**. The objective of the project is the development of a functional scale model of a semi-autonomous truck focused on assisting safe driving and guided maneuverability, mitigating accidents caused by human error.
 
